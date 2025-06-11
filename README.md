@@ -10,7 +10,7 @@
 - 🌱 Currently learning advanced DevOps practices via KodeKloud  
 - 💞️ Collaborating on student-led FinTech and AI-powered fraud detection projects  
 - 📫 Reach me at **jasdevsingh934@gmail.com** | [LinkedIn](https://www.linkedin.com/in/jasdevsingh-/)  
-- ⚡ Fun fact: I’ve always wanted to build a MapleStory private server and can rewire your router while playing football  
+- ⚡ Fun fact: I’ve always wanted to build a MapleStory private server
 
 ---
 
