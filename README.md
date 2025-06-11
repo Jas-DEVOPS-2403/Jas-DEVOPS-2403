@@ -1,6 +1,6 @@
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Jasdev!;DevOps+%7C+Cloud+Infra+%7C+MLOps-curious;Let's+automate+everything+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Jasdev!;💻+DevOps+Engineer+%7C+☁️+Cloud+Infra+%7C+🤖+MLOps+Explorer;Let's+automate+everything+🚀;If+it+works+on+my+machine%2C+we're+shipping+it+💥;Terraform+apply...+and+pray+🙏;Deleting+prod+in+3...2...💀;sudo+fix-everything.sh+✨" />
 </p>
 
 ---
